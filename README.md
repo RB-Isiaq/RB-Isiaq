@@ -10,7 +10,7 @@
 
 👩‍💻 I'm currently using frontend technologies to build amazing projects.
 
-🧠 I look forward to learning backend development with nodeJs and expressJs
+🧠 I'm looking forward to learning backend development with nodeJs and expressJs
 
 👯‍♀️ I'm open to collaboration and contribution on real life projects
 
