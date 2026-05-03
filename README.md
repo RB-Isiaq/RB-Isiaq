@@ -6,11 +6,11 @@
 
 ## About Me
 
-I build scalable web and mobile applications — from pixel-perfect UIs to structured backend APIs.
+I build scalable web and mobile applications — from pixel-perfect UIs to production-grade backend systems.
 
 - Shipping **React / Next.js** web apps with TypeScript, clean component architecture, and production auth flows
 - Building **React Native** mobile apps with Expo — currently [Recurrly](https://github.com/rb-isiaq/recurrly), a subscription tracker with Zustand, Clerk, NativeWind, and data visualisation
-- Writing **NestJS / Node.js** APIs: REST architecture, modular design, guards, interceptors, and database integration
+- Building **production NestJS APIs**: multi-tenant SaaS architecture, JWT + Google OAuth, background email queues (BullMQ + Redis), webhook handling, and PostgreSQL with TypeORM
 - I care about separation of concerns, readable code, and systems that scale without becoming a maintenance burden
 - Open to **Software Engineering roles** (frontend, full-stack, or mobile) and interesting collaborations
 
@@ -50,8 +50,9 @@ I build scalable web and mobile applications — from pixel-perfect UIs to struc
 <p>
 <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
 <a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" width="36" height="36" alt="Redis" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
- <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
 
@@ -64,6 +65,10 @@ I build scalable web and mobile applications — from pixel-perfect UIs to struc
 ---
 
 ## Currently Building
+
+**[IRB Forge](https://github.com/rb-isiaq/irb-forge)** — A multi-tenant SaaS platform for mentorship communities.  
+NestJS · PostgreSQL · Redis + BullMQ · JWT + Google OAuth · TypeORM · Stripe  
+Domain-driven modular architecture with RBAC, background email queues, Stripe webhook handling, and a composable Handlebars email system.
 
 **[Recurrly](https://github.com/rb-isiaq/recurrly)** — A React Native subscription tracker.  
 Expo SDK 54 · expo-router v6 · NativeWind v5 · Clerk auth · Zustand + AsyncStorage · react-native-gifted-charts  
