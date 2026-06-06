@@ -1,20 +1,22 @@
 # Ridwan Bukola Isiaq
 
-## Software Engineer · React · Next.js · React Native · Node.js · NestJS
+## Frontend Software Engineer · React · Next.js · TypeScript — full-stack with Node.js & NestJS
 
 ---
 
 ## About Me
 
-I build scalable web and mobile applications — from pixel-perfect UIs to production-grade backend systems.
+I build scalable web applications — from pixel-perfect, accessible UIs to production-grade backend systems.
 
-- Shipping **React / Next.js** web apps with TypeScript, clean component architecture, and production auth flows
-- Building **React Native** mobile apps with Expo — currently [Recurrly](https://github.com/rb-isiaq/recurrly), a subscription tracker with Zustand, Clerk, NativeWind, and data visualisation
+- Currently building **fintech & AI products at Analytics Intelligence** — including [**TradeTutor**](https://www.londonstockexchange.com/personal-investing/tools/tradetutor-strategy-simulator/), a trading-education platform launched in partnership with the **London Stock Exchange Group**
+- Shipping **React / Next.js** apps with TypeScript, clean component architecture, and production auth flows
 - Building **production NestJS APIs**: multi-tenant SaaS architecture, JWT + Google OAuth, background email queues (BullMQ + Redis), webhook handling, and PostgreSQL with TypeORM
+- Experience across **fintech, AI, healthcare, SaaS and mobility** — Banking-as-a-Service wallets, internal admin platforms, and e-commerce/checkout flows
 - I care about separation of concerns, readable code, and systems that scale without becoming a maintenance burden
-- Open to **Software Engineering roles** (frontend, full-stack, or mobile) and interesting collaborations
+- 🏆 Employee of the Year — Analytics Intelligence (2025)
+- Open to **Frontend & Full-stack Software Engineering roles** and interesting collaborations
 
-📁 Portfolio — [r-b-isiaq](https://r-b-isiaq.vercel.app/)  
+📁 Portfolio — [r-b-isiaq.vercel.app](https://r-b-isiaq.vercel.app/)  
 📬 Email — [isiaqridwanbukola1999@gmail.com](mailto:isiaqridwanbukola1999@gmail.com)
 
 ---
@@ -26,6 +28,7 @@ I build scalable web and mobile applications — from pixel-perfect UIs to produ
 <p>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
@@ -36,13 +39,7 @@ I build scalable web and mobile applications — from pixel-perfect UIs to produ
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" /></a>
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" /></a>
-</p>
-
-**Mobile**
-
-<p>
-<a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React Native" /></a>
-<a href="https://expo.dev/" target="_blank"><img src="https://avatars.githubusercontent.com/u/12504344?s=36&v=4" width="36" height="36" alt="Expo" /></a>
+<a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 </p>
 
 **Backend**
@@ -56,23 +53,24 @@ I build scalable web and mobile applications — from pixel-perfect UIs to produ
 <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
 
-**State & Tooling**
+**Tooling**
 
 <p>
-<a href="https://zustand-demo.pmnd.rs/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Zustand" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+
+> Also work with Zustand, TanStack Query, Express.js, TypeORM, and React Native.
 
 ---
 
 ## Currently Building
 
-**[IRB Forge](https://github.com/rb-isiaq/irb-forge)** — A multi-tenant SaaS platform for mentorship communities.  
-NestJS · PostgreSQL · Redis + BullMQ · JWT + Google OAuth · TypeORM · Stripe  
-Domain-driven modular architecture with RBAC, background email queues, Stripe webhook handling, and a composable Handlebars email system.
+**[IRB Forge](https://irb-forge-fe.vercel.app/)** — A multi-tenant SaaS platform for mentorship communities.
 
-**[Recurrly](https://github.com/rb-isiaq/recurrly)** — A React Native subscription tracker.  
-Expo SDK 54 · expo-router v6 · NativeWind v5 · Clerk auth · Zustand + AsyncStorage · react-native-gifted-charts  
-Full CRUD with persistence, swipe-to-delete, an analytics dashboard, and a 3-step password reset flow.
+- **Backend** ([repo](https://github.com/rb-isiaq/irb-forge)) — NestJS · PostgreSQL · TypeORM · Redis + BullMQ · JWT + Google OAuth · Stripe. Domain-driven modular architecture with RBAC, background email queues, Stripe webhook handling, and a composable Handlebars email system.
+- **Frontend** — Next.js · TypeScript · TanStack Query · Zustand · Zod. Strict Feature-Sliced Design architecture with silent token refresh.
 
 ---
 
